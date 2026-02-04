@@ -1,0 +1,39 @@
+header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #5b4a05;
+    background-color:aliceblue;
+    border-radius: 50px;
+
+}
+body{
+    background-color:#F5F5DC;
+    text-align: center;
+    font-family:Georgia ;
+    color: #5b4a05;
+    font-size: larger;
+}
+
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap:25px;
+    padding: 12px;
+    font-size: large;
+
+    
+    
+}
+a{
+    text-decoration: #5b4a05;
+}
+.s4{
+    text-align: center;
+}
+.u1{
+    text-align: left;
+}
+footer{
+    background-color: aliceblue;
+}
