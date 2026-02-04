@@ -2,7 +2,7 @@ header{
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color: #5b4a05;
-    background-color:aliceblue;
+    background-color:palevioletred;
     border-radius: 50px;
 
 }
@@ -37,6 +37,5 @@ a{
 footer{
     background-color: aliceblue;
 }
-.s5{
-    color: black;
+
 }
